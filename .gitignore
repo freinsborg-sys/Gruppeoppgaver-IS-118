@@ -1,0 +1,14 @@
+# macOS-filer
+.DS_Store
+
+# Windows-filer
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
